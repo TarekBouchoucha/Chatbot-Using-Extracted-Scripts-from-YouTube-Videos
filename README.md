@@ -29,7 +29,3 @@ To achieve the objectives of this project, performing the following tasks was re
 
 ![chat_with_history](https://github.com/user-attachments/assets/e55023ba-c297-431b-aaac-278ec62a5955)
 
-![chat_without_history](https://github.com/user-attachments/assets/dd939fcc-9763-4df8-8a34-86a627c1705b)
-
-![references_and_spelling_mistakes](https://github.com/user-attachments/assets/dbe4e170-977c-4b22-8052-c51d2021f526)
-
